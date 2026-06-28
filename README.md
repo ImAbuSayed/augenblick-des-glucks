@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/augenblick-des-glucks/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Augenblick des Glücks](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/augenblick-des-glucks/) |
+| **Get License** | [Commercial Licensing for Augenblick des Glücks](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/augenblick-des-glucks/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Augenblick des Glücks, Baby, du bist der Vibe
+> Wir cruisen durch die Nacht, keine Limits, keine Zeit
+> Der Bass drückt schwer, dein Blick zieht mich rein
+> Lass die City brennen, heute Nacht bist du mein
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
